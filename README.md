@@ -1,5 +1,11 @@
-# MEVN Stack FullStack Application
+NuxtJs-Test
 
+
+Nuwan Chamikara
+
+Chamikaragmn@gmail.com
+
+Technologies 
 
 - [x] Node 
 - [x] Express 
@@ -15,12 +21,10 @@
 
 ```
 cd apis
-yarn 
-yarn start
+npm start
 ```
 `Clientside code`
 ```
 cd app
-yarn 
-yarn start
+npm start
 ```
